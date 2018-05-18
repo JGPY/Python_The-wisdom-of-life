@@ -2,6 +2,9 @@ python3.6.1
 ===
   IED pycharm
 
-Package:
-===
-  pyserial 3.4
+ files：
+ ===
+  socket-chat    
+  serial_串口通信
+  Py-lidar data analysis - V1.0 
+  autoTXT 
