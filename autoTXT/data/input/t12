@@ -1,0 +1,24 @@
+184行argc = 13
+50行Positive_RA_Alt_Thresh[0] = 400
+52行Positive_RA_Alt_Thresh[1] = 500
+54行Positive_RA_Alt_Thresh[2] = 640
+56行Positive_RA_Alt_Thresh[3] = 740
+194行Cur_Vertical_Sep = 570
+197行High_Confidence = 0
+200行Two_of_Three_Reports_Valid = 1
+203行Own_Tracked_Alt = 1945
+206行Own_Tracked_Alt_Rate = 376
+209行Other_Tracked_Alt = 2064
+212行Alt_Layer_Value = 0
+215行Up_Separation = 739
+218行Down_Separation = 740
+221行Other_RAC = 1
+224行Other_Capability = 1
+227行Climb_Inhibit = 1
+134行enabled = 0, High_Confidence = 0, Own_Tracked_Alt_Rate = 376, Cur_Vertical_Sep = 570
+136行tcas_equipped = 1, Other_Capability = 1
+138行intent_not_known = 0, Two_of_Three_Reports_Valid = 1, Other_RAC = 1
+141行alt_sep = 0
+144行enabled = 0, tcas_equipped = 1, intent_not_known = 0
+176行alt_sep = 0
+0
