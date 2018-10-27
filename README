@@ -3,18 +3,25 @@ IED：pycharm
 
 Files descriptor：
 ===
-01.socket-chat # 基于Socket局域网聊天Demo
+01.socket-chat 
+  D:基于Socket局域网聊天Demo
 ---
-02.serial_串口通信 # 串口通行Demo
+02.serial_串口通信 
+  D:串口通行Demo
 ---
-03.Py-lidar data analysis - V1.0 # 激光雷达数据解析
+03.Py-lidar data analysis - V1.0 
+  D:激光雷达数据解析
 ---
-04.autoTXT #python自动化处理文本文件 
+04.autoTXT 
+  D:python自动化处理文本文件 
 ---
-05.AudioPlay # 向python脚本传递参数播放MP3音频
+05.AudioPlay 
+  D:向python脚本传递参数播放MP3音频
 ---
-06.Threading # 多线程测试
+06.Threading 
+  D:多线程测试
 ---
-07.script_start_stop  # 项目启动，以及添加守护进程 脚本
+07.script_start_stop  
+  D:项目启动，以及添加守护进程 脚本
 ---
 
