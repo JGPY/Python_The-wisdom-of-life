@@ -9,10 +9,10 @@
     D:串口通行Demo
 
 ### 03.Py-lidar data analysis - V1.0 
-    D:[激光雷达数据解析](https://blog.csdn.net/qq_21508727/article/details/79839195)
+  [激光雷达数据解析](https://blog.csdn.net/qq_21508727/article/details/79839195)
 
 ### 04.autoTXT 
-    D:[python自动化处理文本文件](https://blog.csdn.net/qq_21508727/article/details/80357580) 
+  [python自动化处理文本文件](https://blog.csdn.net/qq_21508727/article/details/80357580) 
 
 ### 05.AudioPlay 
     D:向python脚本传递参数播放MP3音频
