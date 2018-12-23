@@ -2,6 +2,11 @@
 ## IDE:pycharm
 
 ## Files descriptor:
+### 00.books
+   [Python 编码风格指南英文PDF](./books/Google Python Style Guide.pdf) <br>
+   [Python 编码风格指南中文PDF](./books/Google java编程规范.pdf) <br>
+   [Google开源项目风格指南](https://google.github.io/styleguide/) <br>
+   [Google开源项目风格指南(中文)](https://github.com/zh-google-styleguide/zh-google-styleguide) <br>
 ### 01.socket-chat 
     D:基于Socket局域网聊天Demo
 
