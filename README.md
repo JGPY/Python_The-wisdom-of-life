@@ -4,9 +4,9 @@
 ## Files descriptor:
 ### 00.books
 &nbsp;&nbsp;&nbsp;&nbsp;
-[Python 编码风格指南英文PDF](./books/Google%20Python%20Style%20Guide.pdf) <br>
+[Python 编码风格指南](./books/Google%20Python%20Style%20Guide.pdf) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[Python 编码风格指南中文PDF](./books/Google%20java编程规范.pdf) <br>
+[Python 编码风格指南(中文)](./books/Google%20java编程规范.pdf) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 [Google开源项目风格指南](https://google.github.io/styleguide/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;
