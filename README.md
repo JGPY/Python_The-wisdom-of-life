@@ -17,7 +17,8 @@
 D:基于Socket局域网聊天Demo
 
 ### 02.serial_串口通信 
-&nbsp;&nbsp;&nbsp;&nbsp;D:串口通行Demo
+&nbsp;&nbsp;&nbsp;&nbsp;
+D:串口通行Demo
 
 ### 03.Py-lidar data analysis - V1.0 
 &nbsp;&nbsp;&nbsp;&nbsp;
